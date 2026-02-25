@@ -1,89 +1,79 @@
-# עמותת אמ"א בישראל — Generative Engine Optimization Map
-
-> A Jewish charitable organization founded in 2023, focused on facilitating traditional religious mitzvot and donations. The organization provides essential services tied to Jewish holidays including Yom Kippur chicken redemption, Passover flour distribution, chametz sale facilitation, and Purim gifts for the needy. Based in Harish, Israel, with an established community presence and social media engagement.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://-d95bebdf.zappy5.app
+https://example.com
 עמותת אמ״א מאפשרת לכם לקיים מצוות חגים בקלות: מכירת חמץ לפסח, פדיון כפרות יום כיפור, קמחא דפסחא ומתנות לאביונים. הצטרפו לאלפי תורמים עכשיו!
 
 ### אודות
-https://-d95bebdf.zappy5.app/about
+https://example.com/about
 הכירו את עמותת אמ״א מחריש - ארגון צדקה יהודי המקדם מצוות מסורתיות מיום כיפור ועד פסח. גלו את הערכים, הצוות והקהילה שלנו ותבינו למה אלפים בוטחים בנו.
 
 ### מצוות החגים
-https://-d95bebdf.zappy5.app/mitzvot
+https://example.com/mitzvot
 קיום מצוות חגים בהקלקה: פדיון כפרות אונליין, מכירת חמץ לפסח מהבית, קמחא דפסחא לנזקקים ומתנות לאביונים בפורים. שירות מהיר, אמין ומהדרין מעמותת אמ״א.
 
 ### צור קשר
-https://-d95bebdf.zappy5.app/contact
+https://example.com/contact
 צוות עמותת אמ״א זמין לכל שאלה על מכירת חמץ, פדיון כפרות, תרומות לחגים ומצוות צדקה. פנו אלינו בטלפון, מייל או רשתות חברתיות - נשמח לסייע!
 
 ### Products
-https://-d95bebdf.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - עמותת אמ"א בישראל
 
 ### Cart
-https://-d95bebdf.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-d95bebdf.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-d95bebdf.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-d95bebdf.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-d95bebdf.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-d95bebdf.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - עמותת אמ"א בישראל
 
 ### Category
-https://-d95bebdf.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - עמותת אמ"א בישראל
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d95bebdf.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d95bebdf.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d95bebdf.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About עמותת אמ"א בישראל
-A Jewish charitable organization founded in 2023, focused on facilitating traditional religious mitzvot and donations. The organization provides essential services tied to Jewish holidays including Yom Kippur chicken redemption, Passover flour distribution, chametz sale facilitation, and Purim gifts for the needy. Based in Harish, Israel, with an established community presence and social media engagement.
-
-## Target Audience
-תורמים ומעוניינים במצוות צדקה יהודיות
-
-## Industry
-צדקה וארגון ללא מטרות רווח
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-d95bebdf.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-d95bebdf.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
